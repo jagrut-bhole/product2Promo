@@ -1,0 +1,1 @@
+import { upload } from "../middlewares/multer.middleware.js";
